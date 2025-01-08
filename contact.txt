@@ -1,0 +1,10 @@
+How to store Contact_form in github
+1. first we have to be open terminal in vs code and ent 'cntr+~' terminal will be open
+2. in the teminal enter the git init
+3. enter the 'git status' is used to know the howmany files are available  in this folder.
+4.  enter the git add . .
+5. enter the git commit -m "feat(create_folder):project 1"
+6. enter the git branch -M main
+7. enter the git remote add origin https://github.com/codeWriting/contact_form.git
+8. enter the git push
+9. git push --set-upstream origin main
